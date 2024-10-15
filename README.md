@@ -3,6 +3,11 @@
 ## Overview
 A simple task management web application built with Django, allowing users to register, log in, and manage their daily tasks. Users can add, update, and delete tasks, and track their completion status.
 
+### **[Live Demo](https://madhutodo.pythonanywhere.com/login/?next=/)**
+
+You can try the application live at the following link:  
+[https://madhutodo.pythonanywhere.com/login/?next=/](https://madhutodo.pythonanywhere.com/login/?next=/)
+
 ## Features
 - **User Authentication**: Users can register, log in, and log out securely.
 - **Task Management**: Add, update, delete, and mark tasks as completed.
